@@ -71,7 +71,7 @@ const LoginView: React.FC = () => {
         </form>
         <div className="bg-slate-50 px-8 py-4 border-t border-slate-100 text-center">
           <p className="text-xs text-slate-500">
-            Don't have an account? <a href="https://github.com/Tab-To-LightSpeed24/track3-fullstack#allowed-mock-authentication-credentials" target="_blank" rel="noopener noreferrer" className="text-indigo-600 font-semibold cursor-pointer hover:underline">Contact Admin</a>
+            Don't have an account? <a href="https://github.com/Tab-To-LightSpeed24/track3-fullstack-web#-mock-authentication" target="_blank" rel="noopener noreferrer" className="text-indigo-600 font-semibold cursor-pointer hover:underline">Contact Admin</a>
           </p>
         </div>
       </div>
